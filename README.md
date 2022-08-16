@@ -4,5 +4,5 @@ Metacrafters Module 2: Challenge 1 - Solana using JavaScript
 **Install node_modules** <br />
 npm install   --save @solana/web3.js
 
-**Run index.js with user public wallet (refer to sample text file)** <br />
+**Run index.js** <br />
 $node index.js [sample-public-wallet-here]
